@@ -1,5 +1,5 @@
 # PicoCTF Writeup Compilation Report
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Finfosecwriteups.com%2Fpicoctf-2022-writeup-53633ac84ed6&psig=AOvVaw3yoynW84yOp3irw1eBLcHi&ust=1700120947715000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLimvJ3CxYIDFQAAAAAdAAAAABAI)
+<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*mm1_mK2_AN-pwUgFdCiUVQ.png" width="1000" height="500">
 
 ##  Summary
 This document presents a comprehensive compilation of my solutions to challenges encountered on the PicoCTF platform. As a cybersecurity enthusiast and participant in the Capture The Flag (CTF) community, I have engaged with challenges spanning various domains, contributing to my skill development and problem-solving capabilities.
