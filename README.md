@@ -1,5 +1,5 @@
 # PicoCTF Writeup Compilation Report
-<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*mm1_mK2_AN-pwUgFdCiUVQ.png" width="1000" height="500">
+<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*mm1_mK2_AN-pwUgFdCiUVQ.png" width="1000" height="450">
 
 ##  Summary
 This document presents a comprehensive compilation of my solutions to challenges encountered on the PicoCTF platform. As a cybersecurity enthusiast and participant in the Capture The Flag (CTF) community, I have engaged with challenges spanning various domains, contributing to my skill development and problem-solving capabilities.
