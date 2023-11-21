@@ -28,4 +28,14 @@ Thank you for considering my application. I look forward to the opportunity to a
 
 Sincerely,
 Shaurya Kumar
+```markdown
+| Domain              | Count | Pending |
+| ------------------- | :---: |  :---:  |
+| Web Exploitation    |  3  |    0    |
+| Reverse Engineering |   0   |    3   |
+| Forensics           |   3  |    0    |
+| cryptograhphy       | 1    |    2
+| Binary Exploitation |   1   |    2    |
+| Total               |  8  |    7   |
+```
 
